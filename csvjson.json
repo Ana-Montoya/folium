@@ -1,0 +1,233 @@
+[
+  {
+    "COD_DPTO": 5,
+    "NOM_DPTO": "ANTIOQUIA",
+    "LATITUD": 6.702032125,
+    "LONGITUD": -75.50455704,
+    "Geo Departamento": "POINT (-75.50455704 6.702032125)"
+  },
+  {
+    "COD_DPTO": 8,
+    "NOM_DPTO": "ATLÁNTICO",
+    "LATITUD": 10.67700953,
+    "LONGITUD": -74.96521949,
+    "Geo Departamento": "POINT (-74.96521949 10.67700953)"
+  },
+  {
+    "COD_DPTO": 11,
+    "NOM_DPTO": "BOGOTÁ, D.C.",
+    "LATITUD": 4.316107698,
+    "LONGITUD": -74.1810727,
+    "Geo Departamento": "POINT (-74.1810727 4.316107698)"
+  },
+  {
+    "COD_DPTO": 13,
+    "NOM_DPTO": "BOLÍVAR",
+    "LATITUD": 8.079796863,
+    "LONGITUD": -74.23514814,
+    "Geo Departamento": "POINT (-74.23514814 8.079796863)"
+  },
+  {
+    "COD_DPTO": 15,
+    "NOM_DPTO": "BOYACÁ",
+    "LATITUD": 5.891672889,
+    "LONGITUD": -72.62788054,
+    "Geo Departamento": "POINT (-72.62788054 5.891672889)"
+  },
+  {
+    "COD_DPTO": 17,
+    "NOM_DPTO": "CALDAS",
+    "LATITUD": 5.280139978,
+    "LONGITUD": -75.27498304,
+    "Geo Departamento": "POINT (-75.27498304 5.280139978)"
+  },
+  {
+    "COD_DPTO": 18,
+    "NOM_DPTO": "CAQUETÁ",
+    "LATITUD": 0.798556195,
+    "LONGITUD": -73.95946756,
+    "Geo Departamento": "POINT (-73.95946756 0.798556195)"
+  },
+  {
+    "COD_DPTO": 19,
+    "NOM_DPTO": "CAUCA",
+    "LATITUD": 2.396833887,
+    "LONGITUD": -76.82423283,
+    "Geo Departamento": "POINT (-76.82423283 2.396833887)"
+  },
+  {
+    "COD_DPTO": 20,
+    "NOM_DPTO": "CESAR",
+    "LATITUD": 9.53665993,
+    "LONGITUD": -73.51783154,
+    "Geo Departamento": "POINT (-73.51783154 9.53665993)"
+  },
+  {
+    "COD_DPTO": 23,
+    "NOM_DPTO": "CÓRDOBA",
+    "LATITUD": 8.358549754,
+    "LONGITUD": -75.79200872,
+    "Geo Departamento": "POINT (-75.79200872 8.358549754)"
+  },
+  {
+    "COD_DPTO": 25,
+    "NOM_DPTO": "CUNDINAMARCA",
+    "LATITUD": 4.771120716,
+    "LONGITUD": -74.43111092,
+    "Geo Departamento": "POINT (-74.43111092 4.771120716)"
+  },
+  {
+    "COD_DPTO": 27,
+    "NOM_DPTO": "CHOCÓ",
+    "LATITUD": 5.397581542,
+    "LONGITUD": -76.942811,
+    "Geo Departamento": "POINT (-76.942811 5.397581542)"
+  },
+  {
+    "COD_DPTO": 41,
+    "NOM_DPTO": "HUILA",
+    "LATITUD": 2.570143029,
+    "LONGITUD": -75.58434836,
+    "Geo Departamento": "POINT (-75.58434836 2.570143029)"
+  },
+  {
+    "COD_DPTO": 44,
+    "NOM_DPTO": "LA GUAJIRA",
+    "LATITUD": 11.47687008,
+    "LONGITUD": -72.42951072,
+    "Geo Departamento": "POINT (-72.42951072 11.47687008)"
+  },
+  {
+    "COD_DPTO": 47,
+    "NOM_DPTO": "MAGDALENA",
+    "LATITUD": 10.24738355,
+    "LONGITUD": -74.26175733,
+    "Geo Departamento": "POINT (-74.26175733 10.24738355)"
+  },
+  {
+    "COD_DPTO": 50,
+    "NOM_DPTO": "META",
+    "LATITUD": 3.345562732,
+    "LONGITUD": -72.95645988,
+    "Geo Departamento": "POINT (-72.95645988 3.345562732)"
+  },
+  {
+    "COD_DPTO": 52,
+    "NOM_DPTO": "NARIÑO",
+    "LATITUD": 1.571094987,
+    "LONGITUD": -77.87020496,
+    "Geo Departamento": "POINT (-77.87020496 1.571094987)"
+  },
+  {
+    "COD_DPTO": 54,
+    "NOM_DPTO": "NORTE DE SANTANDER",
+    "LATITUD": 8.09513751,
+    "LONGITUD": -72.88188297,
+    "Geo Departamento": "POINT (-72.88188297 8.09513751)"
+  },
+  {
+    "COD_DPTO": 63,
+    "NOM_DPTO": "QUINDÍO",
+    "LATITUD": 4.455241567,
+    "LONGITUD": -75.68962853,
+    "Geo Departamento": "POINT (-75.68962853 4.455241567)"
+  },
+  {
+    "COD_DPTO": 66,
+    "NOM_DPTO": "RISARALDA",
+    "LATITUD": 5.240757239,
+    "LONGITUD": -76.00244469,
+    "Geo Departamento": "POINT (-76.00244469 5.240757239)"
+  },
+  {
+    "COD_DPTO": 68,
+    "NOM_DPTO": "SANTANDER",
+    "LATITUD": 6.693633184,
+    "LONGITUD": -73.48600894,
+    "Geo Departamento": "POINT (-73.48600894 6.693633184)"
+  },
+  {
+    "COD_DPTO": 70,
+    "NOM_DPTO": "SUCRE",
+    "LATITUD": 9.064941448,
+    "LONGITUD": -75.10981755,
+    "Geo Departamento": "POINT (-75.10981755 9.064941448)"
+  },
+  {
+    "COD_DPTO": 73,
+    "NOM_DPTO": "TOLIMA",
+    "LATITUD": 4.03477252,
+    "LONGITUD": -75.2558271,
+    "Geo Departamento": "POINT (-75.2558271 4.03477252)"
+  },
+  {
+    "COD_DPTO": 76,
+    "NOM_DPTO": "VALLE DEL CAUCA",
+    "LATITUD": 3.569858693,
+    "LONGITUD": -76.62850427,
+    "Geo Departamento": "POINT (-76.62850427 3.569858693)"
+  },
+  {
+    "COD_DPTO": 81,
+    "NOM_DPTO": "ARAUCA",
+    "LATITUD": 6.569577215,
+    "LONGITUD": -70.96732394,
+    "Geo Departamento": "POINT (-70.96732394 6.569577215)"
+  },
+  {
+    "COD_DPTO": 85,
+    "NOM_DPTO": "CASANARE",
+    "LATITUD": 5.404064237,
+    "LONGITUD": -71.60188073,
+    "Geo Departamento": "POINT (-71.60188073 5.404064237)"
+  },
+  {
+    "COD_DPTO": 86,
+    "NOM_DPTO": "PUTUMAYO",
+    "LATITUD": 0.3673031,
+    "LONGITUD": -75.51406183,
+    "Geo Departamento": "POINT (-75.51406183 0.3673031)"
+  },
+  {
+    "COD_DPTO": 88,
+    "NOM_DPTO": "ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",
+    "LATITUD": 12.54311512,
+    "LONGITUD": -81.71762382,
+    "Geo Departamento": "POINT (-81.71762382 12.54311512)"
+  },
+  {
+    "COD_DPTO": 91,
+    "NOM_DPTO": "AMAZONAS",
+    "LATITUD": -1.54622768,
+    "LONGITUD": -71.50212858,
+    "Geo Departamento": "POINT (-71.50212858 -1.54622768)"
+  },
+  {
+    "COD_DPTO": 94,
+    "NOM_DPTO": "GUAINÍA",
+    "LATITUD": 2.727842865,
+    "LONGITUD": -68.81661272,
+    "Geo Departamento": "POINT (-68.81661272 2.727842865)"
+  },
+  {
+    "COD_DPTO": 95,
+    "NOM_DPTO": "GUAVIARE",
+    "LATITUD": 1.924531973,
+    "LONGITUD": -72.12859569,
+    "Geo Departamento": "POINT (-72.12859569 1.924531973)"
+  },
+  {
+    "COD_DPTO": 97,
+    "NOM_DPTO": "VAUPÉS",
+    "LATITUD": 0.64624561,
+    "LONGITUD": -70.56140566,
+    "Geo Departamento": "POINT (-70.56140566 0.64624561)"
+  },
+  {
+    "COD_DPTO": 99,
+    "NOM_DPTO": "VICHADA",
+    "LATITUD": 4.713557125,
+    "LONGITUD": -69.41400011,
+    "Geo Departamento": "POINT (-69.41400011 4.713557125)"
+  }
+]
